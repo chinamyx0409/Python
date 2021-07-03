@@ -1,0 +1,6 @@
+cmd /K python "$(C:\Users\admin\db2\datasets\Datasets\excercises_slider.py)"'
+
+
+C:\Users\admin\Anaconda3\Scripts\conda.exe -i "$(C:\Users\admin\db2\datasets\Datasets\excercises_slider.py)"
+C:\Users\admin\Anaconda3\Library\bin\conda.bat -i "$(C:\Users\admin\db2\datasets\Datasets\excercises_slider.py)"
+C:\Users\admin\Anaconda3\Library\bin\conda.bat -i "$(C:\Users\admin\db2\datasets\Datasets\excercises_slider.py)"
